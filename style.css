@@ -5,6 +5,12 @@ body {
 
 body h1 {
     color: darkslateblue;
+    margin: 0;
+}
+
+.titulo{
+    background-color: rgb(255, 144, 181);
+    padding: 20px;
 }
 
 .div_contenedor {
